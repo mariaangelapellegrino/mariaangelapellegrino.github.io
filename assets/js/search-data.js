@@ -411,7 +411,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-kgheartbeat",
           title: 'KGHeartBeat',
-          description: "knowledge graph quality assessment tool",
+          description: "a knowledge graph quality assessment tool",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-checloud",
