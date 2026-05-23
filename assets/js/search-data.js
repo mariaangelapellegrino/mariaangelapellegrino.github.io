@@ -18,10 +18,10 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/_pages/projects/";
           },
         },{id: "post-a-post-with-plotly-js",
         
