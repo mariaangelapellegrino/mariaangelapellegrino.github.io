@@ -14,14 +14,21 @@ ninja.data = [{
           description: "Her full list of publications are available online on [Google Scholar](https://scholar.google.com/citations?user=OywXH9wAAAAJ&amp;hl=en), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57204732130), [DBLP](https://dblp.org/pid/224/0266.html).",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/_pages/publications/";
+            window.location.href = "/publications/";
+          },
+        },{id: "nav-teaching",
+          title: "Teaching",
+          description: "Teaching activities",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
           },
         },{id: "nav-projects",
           title: "Projects",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/_pages/projects/";
+            window.location.href = "/projects/";
           },
         },{id: "post-a-post-with-plotly-js",
         
