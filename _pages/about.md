@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Maria Angela Pellegrino is a researcher passionate about interdisciplinary research, computational approaches, and scientific communication. Her work combines analytical thinking with practical applications in research and education.
+Maria Angela Pellegrino is an assistant professor in tenure track affiliated to the ISISLab laboratory, Department of Computer Science, University of Salerno (Italy). 
+
+Her research mainly focuses in Data Quality in the Semantic Web and in Technology-enhanced Learning.
 
 Her full list of publications are available online on [Google Scholar](https://scholar.google.com/citations?user=OywXH9wAAAAJ&hl=en), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57204732130), [DBLP](https://dblp.org/pid/224/0266.html).
 
