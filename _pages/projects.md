@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 description: ""
+permalink: /projects/
 nav: true
 nav_order: 4
 ---

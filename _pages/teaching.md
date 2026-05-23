@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Teaching
-description: [UNISA website](https://docenti.unisa.it/033807/home)
+permalink: /teaching/
+description: Teaching activities
 nav: true
 nav_order: 3
 ---
