@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department of Computer Science, University of Salerno</a>. via Giovanni Paolo II, 132, 84084, Fisciano (SA), Italy. mapellegrino@unisa.it
+subtitle: <a href='https://docenti.unisa.it/033807/curriculum'>Department of Computer Science, University of Salerno</a>. via Giovanni Paolo II, 132, 84084, Fisciano (SA), Italy. mapellegrino@unisa.it
 
 profile:
   align: right
