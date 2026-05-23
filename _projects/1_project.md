@@ -1,7 +1,7 @@
 ---
 layout: page
 title: KGHeartBeat
-description: knowledge graph quality assessment tool
+description: a knowledge graph quality assessment tool
 redirect: https://kgheartbeat.di.unisa.it
 importance: 1
 category: work
