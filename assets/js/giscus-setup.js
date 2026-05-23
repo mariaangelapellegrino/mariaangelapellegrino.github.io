@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "mariaangelapellegrino/marpel.github.io",
+    "data-repo": "mariaangelapellegrino/mariaangelapellegrino.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
