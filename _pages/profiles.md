@@ -3,7 +3,7 @@ layout: profiles
 permalink: /people/
 title: people
 description: ISISLab, Department of Computer Science, University of Salerno (Italy)
-nav: true
+nav: false
 nav_order: 7
 
 profiles:
