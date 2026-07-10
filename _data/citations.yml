@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-07-10'
 papers:
   OywXH9wAAAAJ:-f6ydRqryjwC:
     citations: 4
@@ -14,7 +14,7 @@ papers:
     title: A non-prescriptive environment to scaffold high quality and privacy-aware production of open data with AI
     year: '2019'
   OywXH9wAAAAJ:3fE2CSJIrl8C:
-    citations: 45
+    citations: 46
     title: Linked open data in authoring virtual exhibitions
     year: '2022'
   OywXH9wAAAAJ:4DMP91E08xMC:
@@ -106,7 +106,7 @@ papers:
     title: "CHeCLOUD\u2014the Cultural Heritage Linked Open Data Cloud"
     year: '2025'
   OywXH9wAAAAJ:NaGl4SEjCO4C:
-    citations: 0
+    citations: 2
     title: The complex ecosystem of hyperprolific authors
     year: '2026'
   OywXH9wAAAAJ:O3NaXMp0MMsC:
@@ -267,7 +267,7 @@ papers:
     year: '2025'
   OywXH9wAAAAJ:lSLTfruPkqcC:
     citations: 0
-    title: 'Measuring What Matters: User Perceptions of Knowledge Graph Quality Dimensions in Cultural Heritage.'
+    title: 'Measuring What Matters: User Perceptions of Knowledge Graph Quality Dimensions in Cultural Heritage'
     year: '2026'
   OywXH9wAAAAJ:mB3voiENLucC:
     citations: 6
@@ -294,7 +294,7 @@ papers:
     title: 'Bringing European University Alliances to High Schools: A Hands-On Collaborative Workshop'
     year: '2025'
   OywXH9wAAAAJ:u-x6o8ySG0sC:
-    citations: 26
+    citations: 27
     title: Leveraging knowledge graph embedding techniques for industry 4.0 use cases
     year: '2018'
   OywXH9wAAAAJ:u5HHmVD_uO8C:
